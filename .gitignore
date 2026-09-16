@@ -1,0 +1,16 @@
+# 编译/构建产物
+target/
+build/
+out/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+node_modules/
+# 编辑器/系统
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
